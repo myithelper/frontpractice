@@ -2,7 +2,7 @@
 
 function includeCatagoryJp(){
 var catagory =
-'<h6>車用</h6>'
+'<h6>新規</h6>'
 +'<ul>'
 +'cat_jp'
 +'</ul>'
@@ -19,7 +19,7 @@ function includeCatagoryKo(){
 var catagory =
 
 
-'<h6>차량용</h6>'
+'<h6>새로운</h6>'
 +  '<ul>'
 +'cat_ko'
   +'</ul>'
@@ -34,7 +34,7 @@ div.innerHTML = catagory
 
 function includeCatagoryDetailJp(){
 var catagory =
-'<h6>車用</h6>'
+'<h6>新規</h6>'
 +'<ul>'
 +'cat_detail_jp'
 +'</ul>'
@@ -52,7 +52,7 @@ function includeCatagoryDetailKo(){
 var catagory =
 
 
-'<h6>차량용</h6>'
+'<h6>새로운</h6>'
 +  '<ul>'
 +'cat_detail_ko'
 
