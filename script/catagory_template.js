@@ -19,7 +19,7 @@ function includeCatagoryKo(){
 var catagory =
 
 
-'<h6>새로운</h6>'
+'<h6>새로운상품</h6>'
 +  '<ul>'
 +'cat_ko'
   +'</ul>'
@@ -52,11 +52,10 @@ function includeCatagoryDetailKo(){
 var catagory =
 
 
-'<h6>새로운</h6>'
+'<h6>새로운상품</h6>'
 +  '<ul>'
 +'cat_detail_ko'
-
-  +'</ul>'
++'</ul>'
 
 
 
